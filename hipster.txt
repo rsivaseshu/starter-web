@@ -13,4 +13,9 @@ this is local changes done by local user
  from remote website done by remote user
 >>>>>>> 23a0a72142bc7dc13cb9c847492191180ac7293e
 
+<<<<<<< HEAD
 this is local user
+=======
+
+hi this is remote user
+>>>>>>> 2404418128a745c3f5dfe11ddbdb5e07606dea9c
