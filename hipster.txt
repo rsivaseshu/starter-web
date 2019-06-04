@@ -4,7 +4,11 @@ Lorem ipsum dolor amet vHS raclette XOXO listicle asymmetrical twee. Coloring bo
 Tilde hell of vinyl man braid pork belly 8-bit banjo hashtag craft beer asymmetrical ugh. Jianbing glossier put a bird on it mumblecore fashion axe dreamcatcher bushwick tumeric. Air plant gastropub gentrify jianbing neutra sartorial whatever venmo narwhal distillery direct trade man bun. Pour-over gluten-free cornhole, heirloom portland cloud bread pabst.
 
 this is my edit file
+<<<<<<< HEAD
 
 
 this is local changes done by local user
 
+=======
+ from remote website done by remote user
+>>>>>>> 23a0a72142bc7dc13cb9c847492191180ac7293e
